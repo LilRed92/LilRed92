@@ -1,14 +1,14 @@
 ### Hey there! 👋🏼 
-I'm <b>KACIE</b> (aliases: <b>FOX</b> or <b>LILRED</b>)! 
-<b>Pronouns:</b> she/her
-<b>Quick Summary:</b>
-Techie; gamer; artist; tinkerer; aspiring Dev; lover of baking, learning, nature, & writing; proud Mini Aussie Mom of two
-#InvisibleIllnessWarrior #OpenMinded #Omnist #CryptoEnthusiast
-<b>I'm currently...</b> participating in <b>GENERATION USA's JUNIOR FULL-STACK JAVA DEVELOPER</b> program.
-<b>I'm currently collaborating on...</b> a co-op startup, <b>MARIPOSA TECHNOMOJO</b>.
-<b>Check out my...</b>
-<b>TWITTER:</b>
-<b>Contact Info: Deardevdesigner@gmail.com
+I'm <b>KACIE!</b> (aliases: <b>FOX</b> or <b>LILRED</b>)<br>
+:sparkles:<b>Pronouns:</b> she/her<br>
+:sparkles:<b>Quick Summary:</b><br>
+Techie; gamer; artist; tinkerer; aspiring Dev; lover of baking, learning, nature, & writing; proud Mini Aussie Mom of two<br>
+#InvisibleIllnessWarrior #OpenMinded #Omnist #CryptoEnthusiast<br>
+:sparkles:<b>I'm currently...</b> participating in <b>GENERATION USA's JUNIOR FULL-STACK JAVA DEVELOPER</b> program.<br>
+:sparkles:<b>I'm currently collaborating on...</b> a co-op startup, <b>MARIPOSA TECHNOMOJO</b>.<br>
+:sparkles:<b>Check out my...</b><br>
+<b>TWITTER:</b><br>
+:sparkles:<b>Contact Info: Deardevdesigner@gmail.com
 
 
 <!--
