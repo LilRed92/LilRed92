@@ -1,13 +1,15 @@
 ### Hey there! 👋🏼 
 I'm <b>KACIE!</b> (aliases: <b>FOX</b> or <b>LILRED</b>)<br>
-:sparkles:<b>Pronouns:</b> she/her<br>
+:sparkles:<b>Pronouns:</b> she/her<br><br>
 :sparkles:<b>Quick Summary:</b><br>
-Techie; gamer; artist; tinkerer; aspiring Dev; lover of baking, learning, nature, & writing; proud Mini Aussie Mom of two<br>
-#InvisibleIllnessWarrior #OpenMinded #Omnist #CryptoEnthusiast<br>
-:sparkles:<b>I'm currently...</b> participating in <b>GENERATION USA's JUNIOR FULL-STACK JAVA DEVELOPER</b> program.<br>
-:sparkles:<b>I'm currently collaborating on...</b> a co-op startup, <b>MARIPOSA TECHNOMOJO</b>.<br>
+:bowtie:Techie; :video_game:gamer; :art:artist; :wrench:tinkerer; :computer:aspiring Dev; :custard:lover of baking, :books:learning, :sunrise_over_mountains:nature, & :black_nib:writing; :paw_prints:proud Mini Aussie Mom of two<br>
+Also... :taurus: :barber: :musical_keyboard: :bowling:<br>
+#InvisibleIllnessWarrior:purple_heart: #OpenMinded #Omnist #CryptoEnthusiast<br><br>
+:sparkles:<b>I'm currently...</b> participating in <b>GENERATION USA's :mortar_board: JUNIOR FULL-STACK JAVA DEVELOPER</b> program.<br><br>
+:sparkles:<b>I'm currently collaborating on...</b> a co-op startup, <b>MARIPOSA TECHNOMOJO</b>.<br><br>
 :sparkles:<b>Check out my...</b><br>
-<b>TWITTER:</b><br>
+<b>LINKEDIN:</b> <a href="https://www.linkedin.com/in/deardevdesigner/">Kacie Dearman</a>
+<b>TWITTER:</b> <a href="https://twitter.com/DearDevDesigner">@DearDevDesigner</a><br><br>
 :sparkles:<b>Contact Info: Deardevdesigner@gmail.com
 
 
