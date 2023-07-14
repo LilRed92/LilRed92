@@ -1,14 +1,14 @@
-### Hey there! 👋🏼 </br>
-I'm <b>KACIE</b> (aliases: <b>FOX</b> or <b>LILRED</b>)!</br>
-<b>Pronouns:</b> she/her</br></br>
+### Hey there! 👋🏼 
+I'm <b>KACIE</b> (aliases: <b>FOX</b> or <b>LILRED</b>)! 
+<b>Pronouns:</b> she/her
 <b>Quick Summary:</b>
-Techie; gamer; artist; tinkerer; aspiring Dev;</br> lover of baking, learning, nature, & writing; proud Mini Aussie Mom of two</br>
-#InvisibleIllnessWarrior #OpenMinded #Omnist #CryptoEnthusiast</br></br>
-<b>I'm currently...</b> working on <b>A.A.S. - COMPUTER INFORMATION SYSTEMS</b> at <b>AMARILLO COLLEGE</b>.</br>
-<b>I'm currently collaborating on...</b> a co-op startup, <b>MARIPOSA TECHNOMOJO</b>.</br></br>
-<b>Check out my...</b></br>
-<b>TWITTER:</b> https://twitter.com/DearDevDesigner</br>
-<b>Contact Info:</b> Deardevdesigner@gmail.com<br/>
+Techie; gamer; artist; tinkerer; aspiring Dev; lover of baking, learning, nature, & writing; proud Mini Aussie Mom of two
+#InvisibleIllnessWarrior #OpenMinded #Omnist #CryptoEnthusiast
+<b>I'm currently...</b> participating in <b>GENERATION USA's JUNIOR FULL-STACK JAVA DEVELOPER</b> program.
+<b>I'm currently collaborating on...</b> a co-op startup, <b>MARIPOSA TECHNOMOJO</b>.
+<b>Check out my...</b>
+<b>TWITTER:</b>
+<b>Contact Info: Deardevdesigner@gmail.com
 
 
 <!--
