@@ -10,6 +10,7 @@ Techie; gamer; artist; tinkerer; aspiring Dev; lover of baking, learning, nature
 <b>TWITTER:</b>
 <b>Contact Info: Deardevdesigner@gmail.com
 
+[![LilRedFox's GitHub | Stats](https://stats.quine.sh/LilRedFox/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=LilRedFox)
 
 <!--
 **LilRed92/LilRed92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
